@@ -8,16 +8,19 @@ The project aims to design a scalable enterprise network for a fictional multi-s
 
 ---
 
-## Current Project Status
+## Project Progress
 
-Project Phase: Planning and Design
-
-Completed:
-
-* Logical network topology design
-* VLAN design
-* Device inventory
-* Port mapping documentation
+- [x] Network Planning
+- [x] Logical Topology Design
+- [x] Physical Topology Implementation
+- [ ] IP Addressing (VLSM)
+- [ ] VLAN Configuration
+- [ ] Inter-VLAN Routing
+- [ ] EtherChannel
+- [ ] DHCP
+- [ ] OSPF
+- [ ] ACLs & Security
+- [ ] Testing & Validation
 
 ---
 
